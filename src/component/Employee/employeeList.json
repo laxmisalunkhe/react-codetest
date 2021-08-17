@@ -1,0 +1,42 @@
+[
+    {
+        "firstName" : "Emp1",
+        "lastName" : "Last name",  
+        "dOB" : "01/01/2000",  
+        "designation" : "Test Designation",  
+        "profilePhotoLink" : "link",  
+        "experience" : "5"
+    },
+    {
+        "firstName" : "Emp2",
+        "lastName" : "Last name",  
+        "dOB" : "01/01/2000",  
+        "designation" : "Test Designation",  
+        "profilePhotoLink" : "link",  
+        "experience" : "5"
+    },
+    {
+        "firstName" : "Emp3",
+        "lastName" : "Last name",  
+        "dOB" : "01/01/2000",  
+        "designation" : "Test Designation",  
+        "profilePhotoLink" : "link",  
+        "experience" : "5"
+    },
+    {
+        "firstName" : "Emp41",
+        "lastName" : "Last name",  
+        "dOB" : "01/01/2000",  
+        "designation" : "Test Designation",  
+        "profilePhotoLink" : "link",  
+        "experience" : "5"
+    },
+    {
+        "firstName" : "Emp5",
+        "lastName" : "Last name",  
+        "dOB" : "01/01/2000",  
+        "designation" : "Test Designation",  
+        "profilePhotoLink" : "link",  
+        "experience" : "5"
+    }
+]
